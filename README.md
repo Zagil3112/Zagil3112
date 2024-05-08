@@ -63,7 +63,7 @@ Here are some ideas to get you started:
   
   <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=zagil3112&theme=dark&show_icons=true&count_private=true" />
   <br></br>
-  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=zagil3112&theme=dark&hide_border=false" /> 
+  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=zagil3112&theme=dark&hide_border=false&hide=&exclude_repo=Python_Data_Science" /> 
 </td>
 
 <td width="50%" align="center">
