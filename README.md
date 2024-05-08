@@ -97,14 +97,10 @@ Here are some ideas to get you started:
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,css,discord,docker,postgres,github,html,java,js,linux,md,mongodb,mysql,postman,py,react,ts,vscode,kubernetes&perline=14" />
-  </a>
-  <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
-  </a>
+    <img src="https://skillicons.dev/icons?i=git,css,discord,matlab,arduino,mysql,docker,postgres,github,html,java,js,linux,md,mongodb,mysql,postman,py,react,ts,vscode,kubernetes&perline=14" />
+  </a>  
 </p>
+
 
 
 <!-- Connect with me -->
