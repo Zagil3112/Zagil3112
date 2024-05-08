@@ -61,14 +61,14 @@ Here are some ideas to get you started:
 <tr border="none">
 <td width="50%" align="center">
   
-  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=zagil3112&theme=dark&show_icons=true&count_private=true&hide=jupyter%20notebook&exclude_repo=Python_Data_Science" />
+  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=zagil3112&theme=dark&show_icons=true&count_private=true" />
   <br></br>
-  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=zagil3112&theme=dark&hide_border=false&hide=jupyter%20notebook&exclude_repo=Python_Data_Science" /> 
+  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=zagil3112&theme=dark&hide_border=false"/> 
 </td>
 
 <td width="50%" align="center">
 
-  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=zagil3112&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10&exclude_repo=Python_Data_Science"/>
+  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=zagil3112&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10&exclude_repo=Python_Data_Science,zagil3112.github.io"/>
   
   </td>
 </tr>
