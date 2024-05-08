@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
-
+<a href="https://linkedin.com/in/sebastian-zapata-gil" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white alt=twitter style="margin-bottom: 5px;" />
 <!--
 **Zagil3112/Zagil3112** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
