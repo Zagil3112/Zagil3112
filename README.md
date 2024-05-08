@@ -43,9 +43,9 @@ Here are some ideas to get you started:
 <!--Intro start-->
 - 🔭 I’m currently working on [Java Spring Boot](https://github.com/Zagil3112/SpringBootApp_)
 
-- 🌱 I’m currently learning **React, React Native**
+- 🌱 I’m currently learning **React, React Native, Electron**
 
-- ☁️ I've keen interest in cloud computing. So,I'm learning **AWS**
+- ☁️ I've keen interest in **Data Science**
   
 - 📫 Feel free to reach me out **sebasazg@gmail.com**
 
